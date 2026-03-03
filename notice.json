@@ -1,20 +1,19 @@
 {
   "users": {
     "Farhan": {
-      "message": "Hello Sir Your Monthly Payment Is Not Clear Yet",
-      "timestamp": "2026-03-05 10:00"
+      "message": "Aapka payment pending hai",
+      "timestamp": "2026-03-05",
+      "lock": true
     },
     "1002": {
-      "message": "Your API usage quota exceeded!",
-      "timestamp": "2026-03-05 11:00"
-    },
-    "2001": {
-      "message": "Server maintenance today at 6 PM.",
-      "timestamp": "2026-03-05 09:30"
+      "message": "Welcome! Payment received",
+      "timestamp": "2026-03-05",
+      "lock": false
     },
     "default": {
       "message": "Welcome to Nextify Info Hunter!",
-      "timestamp": "2026-03-05 08:00"
+      "timestamp": "2026-03-05",
+      "lock": false
     }
   }
 }
