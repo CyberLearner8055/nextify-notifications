@@ -1,0 +1,20 @@
+{
+  "users": {
+    "Farhan": {
+      "message": "Welcome to Nextify Info Hunter!",
+      "timestamp": "2026-03-05 10:00"
+    },
+    "1002": {
+      "message": "Your API usage quota exceeded!",
+      "timestamp": "2026-03-05 11:00"
+    },
+    "2001": {
+      "message": "Server maintenance today at 6 PM.",
+      "timestamp": "2026-03-05 09:30"
+    },
+    "default": {
+      "message": "Welcome to Nextify Info Hunter!",
+      "timestamp": "2026-03-05 08:00"
+    }
+  }
+}
