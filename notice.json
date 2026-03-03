@@ -8,7 +8,7 @@
     "1002": {
       "message": "Welcome! Payment received",
       "timestamp": "2026-03-05",
-      "lock": false
+      "lock": true
     },
     "default": {
       "message": "Welcome to Nextify Info Hunter!",
