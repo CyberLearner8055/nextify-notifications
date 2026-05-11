@@ -3,7 +3,7 @@
     "Farhan": {
       "message": "Hello Mohammed Farhan",
       "timestamp": "2026-03-05",
-      "lock": false
+      "lock": true
     },
     "1002": {
       "message": "Welcome! Payment received",
